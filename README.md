@@ -17,7 +17,7 @@ For more information: https://gamma-rs.ch/uploads/media/GAMMA_Software_informati
 
 Pre-processing: please copy rslc/ and DEM_prep/ the processing directory.
 
-Note: it should be processed orderly from the top (part_00):
+Note: it should be processed orderly from the top (part_00) and **it needs to change the mark "off" to "on" when processing**.
 
 - part_00="off" # [0] preprocessing (remove polar name from rslc files)
 - part_01="off" # [1] Generation of MLI images and geocoding
